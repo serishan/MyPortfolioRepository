@@ -1,0 +1,9 @@
+C:\Users\Kim\Desktop\kidon.kim_MAT300_1\Project\mat_300_framework\bin\Release\mat_290_framework.exe
+C:\Users\Kim\Desktop\kidon.kim_MAT300_1\Project\mat_300_framework\bin\Release\mat_290_framework.pdb
+C:\Users\Kim\Desktop\kidon.kim_MAT300_1\Project\mat_300_framework\bin\Release\alglibnet2.dll
+C:\Users\Kim\Desktop\kidon.kim_MAT300_1\Project\mat_300_framework\obj\Release\mat_300_framework.csprojResolveAssemblyReference.cache
+C:\Users\Kim\Desktop\kidon.kim_MAT300_1\Project\mat_300_framework\obj\Release\mat_300_framework.MAT300.resources
+C:\Users\Kim\Desktop\kidon.kim_MAT300_1\Project\mat_300_framework\obj\Release\mat_290_framework.Properties.Resources.resources
+C:\Users\Kim\Desktop\kidon.kim_MAT300_1\Project\mat_300_framework\obj\Release\mat_300_framework.csproj.GenerateResource.Cache
+C:\Users\Kim\Desktop\kidon.kim_MAT300_1\Project\mat_300_framework\obj\Release\mat_290_framework.exe
+C:\Users\Kim\Desktop\kidon.kim_MAT300_1\Project\mat_300_framework\obj\Release\mat_290_framework.pdb
